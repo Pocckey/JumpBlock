@@ -1,0 +1,31 @@
+Game name: Jump Block
+
+Requirements: A keyboard, allegro 4 library, any operating systems
+
+execute RunTheGame.exe
+
+Buttons used: LEFT, RIGHT, SPACE BAR, ENTER, ESC
+Press Esc to quit the game
+---------------------------------------------------------------------------------------------
+To change the music: add the music to the project file, and change the link in the source.cpp
+Default music + Sound effect: 
+http://www.soundjig.com/pages/music/jazz.html 
+- Smooth latin congos with chello.wav
+---------------------------------------------------------------------------------------------
+Game instruction:
+
+Help Bob the block to find the magician by reaching for the sky. Find the door.
+**Be careful Adventurer! if you touched any Evil Ghosts, you will be send to the bottom of the tower and you wll lose a life.
+**Also, the Ghosts become less friendly as you get higher!
+
+Press enter in the instruction page to look at the instruction
+Press Space bar to jump
+Press Left and Right to move left and right
+
+
+---------------------------------------------------------------------------------------------
+Sprite:
+all sprite drawings and backgrounds are located in the sprite and background folder
+
+---------------------------------------------------------------------------------------------
+
